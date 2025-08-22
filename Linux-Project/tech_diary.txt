@@ -1,0 +1,17 @@
+===== Profile =====
+Name : Het Ladani
+Roll No : 24f2000186
+===== Favorite Linux Commands =====
+1. ls - list directory contents
+2. pwd - display current directory path
+3. grep - search text in files
+4. echo - display a line of text or variables
+5. tail - display the last part of files
+===== Command History Log =====
+$ ls
+$ cd linux_project
+$ mkdir test_folder
+$ echo "Sample text" > sample.txt
+$ cat sample.txt
+
+Quote: "Success is not just about knowing commands, but mastering the art of persistence."

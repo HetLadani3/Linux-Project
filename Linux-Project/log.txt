@@ -1,0 +1,6 @@
+===== Command History Log =====
+$ ls
+$ cd linux_project
+$ mkdir test_folder
+$ echo "Sample text" > sample.txt
+$ cat sample.txt

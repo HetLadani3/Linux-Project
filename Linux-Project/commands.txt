@@ -1,0 +1,6 @@
+===== Favorite Linux Commands =====
+1. ls - list directory contents
+2. pwd - display current directory path
+3. grep - search text in files
+4. echo - display a line of text or variables
+5. tail - display the last part of files
